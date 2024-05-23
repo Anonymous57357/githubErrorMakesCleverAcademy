@@ -1,0 +1,10 @@
+STEP1: we created repo (folder) on the github account
+STEP1: then we created file on the git repo(first.txt)
+STEP1: then we clone --> git clone
+STEP1: create file on the folder --> second.txt
+STEP1: git add second.txt
+STEP1: git commit -m "text file 2 is added"
+STEP1: git push origin main 
+
+clone 
+insert --> add --> commit --> push
